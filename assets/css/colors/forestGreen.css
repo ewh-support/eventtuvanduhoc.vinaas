@@ -438,7 +438,7 @@ footer .footer-body .copyright p .fa {
 }
 .schedule-hall .panel .panel-heading .panel-title .panel-title-a,
 .schedule-hall .panel .panel-heading .panel-title a {
-  background-color: #ffffff;
+  background-color: #ffffff !important;
 }
 .schedule-hall .panel .panel-heading .panel-title .rotate {
   background-color: #f6f6f6 !important;
