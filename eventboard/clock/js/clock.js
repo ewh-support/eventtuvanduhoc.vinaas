@@ -106,9 +106,9 @@ $(document).ready(function() {
 
 		var c = {
 			year : 2019,
-			month : 7,
-			day : 1,
-			hh : 00,
+			month : 8,
+			day : 2,
+			hh : 10,
 			min : 00,
 			sec : 0,
 			milsec : 0
